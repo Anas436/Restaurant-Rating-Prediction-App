@@ -51,7 +51,7 @@ Clone the project
 Change to project directory
 
 ```bash
-  cd End-to-End-Restaurant-Rating-Prediction
+  cd Restaurant-Rating-Prediction-App
 ```
 Now install all requirements
 
