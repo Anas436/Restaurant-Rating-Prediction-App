@@ -45,7 +45,7 @@ Python, Pandas, Numpy, Matplotlib, Plotly, Scikit-learn, Streamlit, Git, Optuna,
 Clone the project
 
 ```bash
-  git clone 
+  git clone https://github.com/Anas436/Restaurant-Rating-Prediction-App
 ```
 
 Change to project directory
