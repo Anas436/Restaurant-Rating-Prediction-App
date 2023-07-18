@@ -14,8 +14,7 @@ Restaurant Rating has become the most commonly used parameter for judging a rest
 
 ## 🔗 Links
 
- - [App Link](https://sudhanshu2198-end-to-end-restaurant-rating--introduction-ts1jhq.streamlit.app/)
- - [Kaggle Notebook link](https://www.kaggle.com/code/sudhanshu2198/end-to-end-machine-learning)
+- [Kaggle Dataset link](https://www.kaggle.com/datasets/himanshupoddar/zomato-bangalore-restaurants)
 
 
 ## 🛠 Skills
@@ -46,13 +45,13 @@ Python, Pandas, Numpy, Matplotlib, Plotly, Scikit-learn, Streamlit, Git, Optuna,
 Clone the project
 
 ```bash
-  git clone https://github.com/sudhanshu2198/End-to-End-Restaurant-Rating-Prediction
+  git clone https://github.com/Anas436/Restaurant-Rating-Prediction-App
 ```
 
 Change to project directory
 
 ```bash
-  cd End-to-End-Restaurant-Rating-Prediction
+  cd Restaurant-Rating-Prediction-App
 ```
 Now install all requirements
 
